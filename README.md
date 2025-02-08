@@ -1,0 +1,2 @@
+A basic minecraft fletching mod. The fletching table now crafts arrows, which can be made from flint, iron, gold, diamond, or netherite scrap; and have special ingredients applied for various unique effects. (Each 'tier' of arrow further has a Volatile, Spectral, Slimed, Seeking, Prismatic, and Warped variant.) 
+The Fletching table further allows for a more expensive tipped arrow recipe involving splash potions, and two unique items, Cursed Arrows, and Breeze Arrows. Everything should be more or less compatible with vanilla bows and bow enchantments.
