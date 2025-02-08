@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "seeking_arrows",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "fabulousfletching:seeking_forged_arrow"
+    }
+  ],
+  "result": {
+    "id": "fabulousfletching:seeking_forged_arrow",
+    "count": 1
+  }
+}

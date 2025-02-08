@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "fabulousfletching:warped_forged_arrow",
+    "fabulousfletching:warped_jeweled_arrow",
+    "fabulousfletching:warped_golden_arrow",
+    "fabulousfletching:warped_iron_arrow",
+    "fabulousfletching:spectral_forged_arrow",
+    "fabulousfletching:spectral_jeweled_arrow",
+    "fabulousfletching:spectral_golden_arrow",
+    "fabulousfletching:volatile_jeweled_arrow",
+    "fabulousfletching:volatile_golden_arrow",
+    "fabulousfletching:volatile_iron_arrow"
+  ]
+}

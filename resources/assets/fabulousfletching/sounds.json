@@ -1,0 +1,30 @@
+{
+  "diamond_clink": {
+    "sounds": [
+      {
+        "name": "fabulousfletching:diamond_clink",
+        "stream": false
+      }
+    ]
+  },
+  "netherite_clink": {
+    "sounds": [
+      {
+        "name": "fabulousfletching:assets_minecraft_sounds_mob_blaze_hit2",
+        "stream": false
+      },
+      {
+        "name": "fabulousfletching:assets_minecraft_sounds_mob_blaze_hit1",
+        "stream": false
+      }
+    ]
+  },
+  "fuse": {
+    "sounds": [
+      {
+        "name": "fabulousfletching:assets_minecraft_sounds_random_fuse",
+        "stream": false
+      }
+    ]
+  }
+}

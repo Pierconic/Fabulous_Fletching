@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:flint",
+    "minecraft:iron_nugget",
+    "minecraft:gold_nugget",
+    "minecraft:diamond",
+    "minecraft:netherite_scrap",
+    "minecraft:glass_bottle"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:redstone",
+    "minecraft:gunpowder",
+    "minecraft:glowstone_dust",
+    "minecraft:splash_potion",
+    "minecraft:slime_ball",
+    "minecraft:prismarine_shard",
+    "minecraft:ender_pearl"
+  ]
+}

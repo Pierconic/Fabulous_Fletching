@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="fabulousfletching"
+version="1.0.0"
+displayName="FabulousFletching"
+displayURL="https://mcreator.net"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="prcri, MCreator"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.fabulousfletching]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.65,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.fabulousfletching]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="AFTER"
+side="BOTH"
+
+
+
+
+[[mixins]]
+    config="mixins.fabulousfletching.json"
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

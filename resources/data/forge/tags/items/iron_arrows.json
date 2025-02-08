@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "fabulousfletching:volatile_iron_arrow",
+    "fabulousfletching:prismatic_iron_arrow",
+    "fabulousfletching:slimed_iron_arrow",
+    "fabulousfletching:seeking_iron_arrow",
+    "fabulousfletching:warped_iron_arrow",
+    "minecraft:arrow",
+    "minecraft:spectral_arrow"
+  ]
+}

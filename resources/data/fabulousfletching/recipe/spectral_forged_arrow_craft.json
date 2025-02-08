@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "spectral_arrows",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "fabulousfletching:forged_arrow"
+    }
+  ],
+  "result": {
+    "id": "fabulousfletching:spectral_forged_arrow",
+    "count": 1
+  }
+}
