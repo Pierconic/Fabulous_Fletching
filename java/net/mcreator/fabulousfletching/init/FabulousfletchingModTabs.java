@@ -22,7 +22,6 @@ public class FabulousfletchingModTabs {
 	@SubscribeEvent
 	public static void buildTabContentsVanilla(BuildCreativeModeTabContentsEvent tabData) {
 		if (tabData.getTabKey() == CreativeModeTabs.COMBAT) {
-
 			tabData.accept(FabulousfletchingModItems.GOLDEN_ARROW.get());
 			tabData.accept(FabulousfletchingModItems.JEWELED_ARROW.get());
 			tabData.accept(FabulousfletchingModItems.FORGED_ARROW.get());
@@ -52,7 +51,6 @@ public class FabulousfletchingModTabs {
 			tabData.accept(FabulousfletchingModItems.WARPED_FORGED_ARROW.get());
 			tabData.accept(FabulousfletchingModItems.CURSED_ARROW.get());
 			tabData.accept(FabulousfletchingModItems.BREEZE_ARROW.get());
-
 		}
 	}
 }

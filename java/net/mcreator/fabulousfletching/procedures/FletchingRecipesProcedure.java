@@ -160,7 +160,7 @@ public class FletchingRecipesProcedure {
 			  	ReturnItem.set(DataComponents.POTION_CONTENTS, (entity instanceof Player _plrSlotItem && _plrSlotItem.containerMenu instanceof Supplier _splr && _splr.get() instanceof Map _slt ? ((Slot) _slt.get(3)).getItem() : ItemStack.EMPTY).get(DataComponents.POTION_CONTENTS));
 				//CustomData.update(DataComponents.CUSTOM_DATA, ReturnItem, tag -> tag.putDouble(_tagName, _tagValue));
 			}
-			ReturnItem.grow(2);
+			ReturnItem.grow(1);
 			return ReturnItem;
 		} else if ((entity instanceof Player _plrSlotItem && _plrSlotItem.containerMenu instanceof Supplier _splr && _splr.get() instanceof Map _slt ? ((Slot) _slt.get(0)).getItem() : ItemStack.EMPTY).getItem() == Items.FEATHER
 				&& (entity instanceof Player _plrSlotItem && _plrSlotItem.containerMenu instanceof Supplier _splr && _splr.get() instanceof Map _slt ? ((Slot) _slt.get(1)).getItem() : ItemStack.EMPTY).getItem() == Items.BREEZE_ROD
